@@ -1,0 +1,13 @@
+#main-heading{
+   text-align: center;
+   background-color: aqua;
+}
+nav{
+    background: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+label{
+  font-size: 30px;
+  font-weight: 800;
+}
